@@ -9,6 +9,6 @@ This To-Do application helps users manage their tasks efficiently. It is designe
 - Persistent data storage
 
 ## Technologies Used
--Frontend: HTML, CSS, JavaScript
--Backend: Node.js, Express
--Version Control: Github
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Version Control: Github
