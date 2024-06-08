@@ -12,3 +12,6 @@ This To-Do application helps users manage their tasks efficiently. It is designe
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express
 - Version Control: Github
+
+# Contact
+For any inquiries or feedback, please contact [SanduWeera](sanduniweera2@gmail.com)
